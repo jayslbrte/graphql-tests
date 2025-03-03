@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotChocolateGraphQL.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b972ecbee9e426d17ba78ebc707c3af2322cb4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce9b0224b0dbe8d9292c6695adb0a021eb881880")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotChocolateGraphQL.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotChocolateGraphQL.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

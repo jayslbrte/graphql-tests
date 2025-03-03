@@ -1,0 +1,7 @@
+/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/test-acceptance/obj/Debug/net9.0/test-acceptance.csproj.AssemblyReference.cache
+/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/test-acceptance/obj/Debug/net9.0/MvcTestingAppManifest.json
+/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/test-acceptance/obj/Debug/net9.0/test-acceptance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/test-acceptance/obj/Debug/net9.0/test-acceptance.AssemblyInfoInputs.cache
+/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/test-acceptance/obj/Debug/net9.0/test-acceptance.AssemblyInfo.cs
+/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/test-acceptance/obj/Debug/net9.0/test-acceptance.csproj.CoreCompileInputs.cache
+/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/test-acceptance/obj/Debug/net9.0/test-acceptance.sourcelink.json

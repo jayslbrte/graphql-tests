@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Directory.Build.targets = Directory.Build.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-acceptance", "test-acceptance\test-acceptance.csproj", "{96ABD02D-A01F-450E-9C46-A0B3BB8985FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_acceptance", "test_acceptance\test_acceptance.csproj", "{96ABD02D-A01F-450E-9C46-A0B3BB8985FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

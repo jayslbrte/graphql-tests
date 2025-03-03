@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql_tests/graphql-tests/HotChocolateGraphQL.Backend/HotChocolateGraphQL.Backend.csproj": {}
+    "/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/HotChocolateGraphQL.Backend/HotChocolateGraphQL.Backend.csproj": {}
   },
   "projects": {
-    "/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql_tests/graphql-tests/HotChocolateGraphQL.Backend/HotChocolateGraphQL.Backend.csproj": {
+    "/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/HotChocolateGraphQL.Backend/HotChocolateGraphQL.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql_tests/graphql-tests/HotChocolateGraphQL.Backend/HotChocolateGraphQL.Backend.csproj",
+        "projectUniqueName": "/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/HotChocolateGraphQL.Backend/HotChocolateGraphQL.Backend.csproj",
         "projectName": "HotChocolateGraphQL.Backend",
-        "projectPath": "/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql_tests/graphql-tests/HotChocolateGraphQL.Backend/HotChocolateGraphQL.Backend.csproj",
+        "projectPath": "/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/HotChocolateGraphQL.Backend/HotChocolateGraphQL.Backend.csproj",
         "packagesPath": "/Users/jaysonlabarrete/.nuget/packages/",
-        "outputPath": "/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql_tests/graphql-tests/HotChocolateGraphQL.Backend/obj/",
+        "outputPath": "/Users/jaysonlabarrete/Documents/[2]Work/FRAMEWORKS/graphql-tests/HotChocolateGraphQL.Backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jaysonlabarrete/.nuget/NuGet/NuGet.Config"
