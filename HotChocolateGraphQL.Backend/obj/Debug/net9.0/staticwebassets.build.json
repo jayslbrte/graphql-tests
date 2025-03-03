@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iBUC0z4DVc9OkpngppYr6Oy2NjOKRnxxV4hcrPEz1OI=",
+  "Source": "HotChocolateGraphQL.Backend",
+  "BasePath": "_content/HotChocolateGraphQL.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
