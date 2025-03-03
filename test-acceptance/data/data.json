@@ -1,0 +1,96 @@
+{
+  "data": {
+    "books": [
+      {
+        "title": "C# In Depth",
+        "author": {
+          "name": "Jon Skeet"
+        }
+      },
+      {
+        "title": "Head First C#",
+        "author": {
+          "name": "Andrew Stellman"
+        }
+      },
+      {
+        "title": "Full Stack Serverless",
+        "author": {
+          "name": "Nader Dabit"
+        }
+      },
+      {
+        "title": "Learn C# in One Day and Learn It Well",
+        "author": {
+          "name": "Jaime Chan"
+        }
+      },
+      {
+        "title": "Code That Fits In Your Head",
+        "author": {
+          "name": "Mark Seeman"
+        }
+      },
+      {
+        "title": "Hands On Visual Studio",
+        "author": {
+          "name": "Miguel Angel Teheran Garcia"
+        }
+      },
+      {
+        "title": "Learning C# by Developing Games with Unity",
+        "author": {
+          "name": "Harrison Ferrone"
+        }
+      },
+      {
+        "title": "Serverless GraphQL APIs with Amazon's AWS AppSync",
+        "author": {
+          "name": "Matthias Biehl"
+        }
+      },
+      {
+        "title": "Mastering Regular Expressions",
+        "author": {
+          "name": "Jeffrey E. F. Friedl"
+        }
+      },
+      {
+        "title": "The Road to GraphQL",
+        "author": {
+          "name": "Robin Wieruch"
+        }
+      },
+      {
+        "title": "Full Stack GraphQL Applications",
+        "author": {
+          "name": "William Lyon"
+        }
+      },
+      {
+        "title": "Learning GraphQL",
+        "author": {
+          "name": "Eve Porcello"
+        }
+      },
+      {
+        "title": "C# 10 and .NET 6",
+        "author": {
+          "name": "Mark J Price"
+        }
+      },
+      {
+        "title": "GraphQL in Action",
+        "author": {
+          "name": "Samer Buna"
+        }
+      },
+      {
+        "title": "Software Architecture with C# 10 and .NET 6",
+        "author": {
+          "name": "Francesco Abbruzzese"
+        }
+      }
+    ]
+  }
+}
