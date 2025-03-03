@@ -1,96 +1,94 @@
 {
-  "data": {
-    "books": [
-      {
-        "title": "C# In Depth",
-        "author": {
-          "name": "Jon Skeet"
+  "uuid": "92028bcb-efb2-444c-b9c6-337a5ec20c2d",
+  "lastMigration": 33,
+  "name": "Data2",
+  "endpointPrefix": "",
+  "latency": 0,
+  "port": 3000,
+  "hostname": "",
+  "folders": [],
+  "routes": [
+    {
+      "uuid": "5852275c-4591-470b-a2cb-45adbf37fe2d",
+      "type": "http",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "books",
+      "responses": [
+        {
+          "uuid": "034bf94d-b4ac-4301-844b-9f22a034b814",
+          "body": "{\n  \"data\": {\n    \"books\": [\n      {\n        \"title\": \"C# In Depth\",\n        \"author\": {\n          \"name\": \"Jon Skeet\"\n        }\n      },\n      {\n        \"title\": \"Head First C#\",\n        \"author\": {\n          \"name\": \"Andrew Stellman\"\n        }\n      },\n      {\n        \"title\": \"Full Stack Serverless\",\n        \"author\": {\n          \"name\": \"Nader Dabit\"\n        }\n      },\n      {\n        \"title\": \"Learn C# in One Day and Learn It Well\",\n        \"author\": {\n          \"name\": \"Jaime Chan\"\n        }\n      },\n      {\n        \"title\": \"Code That Fits In Your Head\",\n        \"author\": {\n          \"name\": \"Mark Seemanm\"\n        }\n      },\n      {\n        \"title\": \"Hands On Visual Studio\",\n        \"author\": {\n          \"name\": \"Miguel Angel Teheran Garcia\"\n        }\n      },\n      {\n        \"title\": \"Learning C# by Developing Games with Unity\",\n        \"author\": {\n          \"name\": \"Harrison Ferrone\"\n        }\n      },\n      {\n        \"title\": \"Serverless GraphQL APIs with Amazon's AWS AppSync\",\n        \"author\": {\n          \"name\": \"Matthias Biehl\"\n        }\n      },\n      {\n        \"title\": \"Mastering Regular Expressions\",\n        \"author\": {\n          \"name\": \"Jeffrey E. F. Friedl\"\n        }\n      },\n      {\n        \"title\": \"The Road to GraphQL\",\n        \"author\": {\n          \"name\": \"Robin Wieruch\"\n        }\n      },\n      {\n        \"title\": \"Full Stack GraphQL Applications\",\n        \"author\": {\n          \"name\": \"William Lyon\"\n        }\n      },\n      {\n        \"title\": \"Learning GraphQL\",\n        \"author\": {\n          \"name\": \"Eve Porcello\"\n        }\n      },\n      {\n        \"title\": \"C# 10 and .NET 6\",\n        \"author\": {\n          \"name\": \"Mark J Price\"\n        }\n      },\n      {\n        \"title\": \"GraphQL in Action\",\n        \"author\": {\n          \"name\": \"Samer Buna\"\n        }\n      },\n      {\n        \"title\": \"Software Architecture with C# 10 and .NET 6\",\n        \"author\": {\n          \"name\": \"Francesco Abbruzzese\"\n        }\n      }\n    ]\n  }\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
         }
-      },
-      {
-        "title": "Head First C#",
-        "author": {
-          "name": "Andrew Stellman"
-        }
-      },
-      {
-        "title": "Full Stack Serverless",
-        "author": {
-          "name": "Nader Dabit"
-        }
-      },
-      {
-        "title": "Learn C# in One Day and Learn It Well",
-        "author": {
-          "name": "Jaime Chan"
-        }
-      },
-      {
-        "title": "Code That Fits In Your Head",
-        "author": {
-          "name": "Mark Seeman"
-        }
-      },
-      {
-        "title": "Hands On Visual Studio",
-        "author": {
-          "name": "Miguel Angel Teheran Garcia"
-        }
-      },
-      {
-        "title": "Learning C# by Developing Games with Unity",
-        "author": {
-          "name": "Harrison Ferrone"
-        }
-      },
-      {
-        "title": "Serverless GraphQL APIs with Amazon's AWS AppSync",
-        "author": {
-          "name": "Matthias Biehl"
-        }
-      },
-      {
-        "title": "Mastering Regular Expressions",
-        "author": {
-          "name": "Jeffrey E. F. Friedl"
-        }
-      },
-      {
-        "title": "The Road to GraphQL",
-        "author": {
-          "name": "Robin Wieruch"
-        }
-      },
-      {
-        "title": "Full Stack GraphQL Applications",
-        "author": {
-          "name": "William Lyon"
-        }
-      },
-      {
-        "title": "Learning GraphQL",
-        "author": {
-          "name": "Eve Porcello"
-        }
-      },
-      {
-        "title": "C# 10 and .NET 6",
-        "author": {
-          "name": "Mark J Price"
-        }
-      },
-      {
-        "title": "GraphQL in Action",
-        "author": {
-          "name": "Samer Buna"
-        }
-      },
-      {
-        "title": "Software Architecture with C# 10 and .NET 6",
-        "author": {
-          "name": "Francesco Abbruzzese"
-        }
-      }
-    ]
-  }
+      ],
+      "responseMode": null,
+      "streamingMode": null,
+      "streamingInterval": 0
+    }
+  ],
+  "rootChildren": [
+    {
+      "type": "route",
+      "uuid": "5852275c-4591-470b-a2cb-45adbf37fe2d"
+    }
+  ],
+  "proxyMode": false,
+  "proxyHost": "",
+  "proxyRemovePrefix": false,
+  "tlsOptions": {
+    "enabled": false,
+    "type": "CERT",
+    "pfxPath": "",
+    "certPath": "",
+    "keyPath": "",
+    "caPath": "",
+    "passphrase": ""
+  },
+  "cors": true,
+  "headers": [
+    {
+      "key": "Content-Type",
+      "value": "application/json"
+    },
+    {
+      "key": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "key": "Access-Control-Allow-Methods",
+      "value": "GET,POST,PUT,PATCH,DELETE,HEAD,OPTIONS"
+    },
+    {
+      "key": "Access-Control-Allow-Headers",
+      "value": "Content-Type, Origin, Accept, Authorization, Content-Length, X-Requested-With"
+    }
+  ],
+  "proxyReqHeaders": [
+    {
+      "key": "",
+      "value": ""
+    }
+  ],
+  "proxyResHeaders": [
+    {
+      "key": "",
+      "value": ""
+    }
+  ],
+  "data": [],
+  "callbacks": []
 }
