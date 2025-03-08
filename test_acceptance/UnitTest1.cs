@@ -1,7 +1,3 @@
-using System;
-using System.IO;
-using System.Net.Http;
-using System.Threading.Tasks;
 using GraphQL;
 using GraphQL.Client.Http;
 using GraphQL.Client.Serializer.Newtonsoft;
@@ -76,8 +72,7 @@ public class UnitTest1(ITestOutputHelper testOutputHelper) : IAsyncLifetime
         string requestFile, 
         HttpClient client,
         ITestOutputHelper testOutputHelper)
-    {
-        using var graphClient = GetGraphClient(client);
+    { using var graphClient = GetGraphClient(client);
       var query = await GetQueryTextAsync(requestFile);
       var result = await graphClient.SendQueryAsync<T>(new GraphQLRequest{ Query = query });
       testOutputHelper.WriteLine(Newtonsoft.Json.JsonConvert.SerializeObject(result));

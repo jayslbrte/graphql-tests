@@ -31,8 +31,8 @@ public class MockoonFixture : IAsyncLifetime
             .WithCleanUp(true)
             .WithBindMount(dataPath, "/data", AccessMode.ReadOnly)
             .WithCommand("--data", "/data/data.json")
-            .WithPortBinding(_mockoonContainerPort, assignRandomHostPort: true)
-            .WithWaitStrategy(Wait.ForUnixContainer().UntilPortIsAvailable(_mockoonContainerPort))
+            .WithPortBinding(3000, false)
+            .WithWaitStrategy(Wait.ForUnixContainer().UntilPortIsAvailable(3000))
             .Build();
     }
 

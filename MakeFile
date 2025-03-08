@@ -1,0 +1,8 @@
+build: #builds the projects
+    dotnet build
+clean: #cleans the projects
+    dotnet clean
+restore: #installs all existing dependencies
+    dotnet restore    
+test: #runs the xunit tests
+    dotnet test    

@@ -1,0 +1,20 @@
+name: Build and Test
+on:
+    pull_request:
+        branches:
+            - main
+    push:
+        branches:
+            - main
+jobs:
+    acceptance-test:
+        runs-on: ubuntu-latest
+        steps:
+            - name: clean
+              run: make clean
+            - name: restore
+              run: make restore
+            - name: build
+              run: make build
+            - name: run test
+              run: make test
