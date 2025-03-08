@@ -1,9 +1,10 @@
+using System;
+using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using Microsoft.VisualStudio.TestPlatform.TestHost;
-using test_acceptance.Configure;
 using test_acceptance.Configure.fixtures;
+using Xunit;
 
 namespace test_acceptance.Configure;
 

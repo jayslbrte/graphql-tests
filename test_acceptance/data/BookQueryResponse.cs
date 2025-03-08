@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace test_acceptance.data;
 
 public class BookQueryResponse

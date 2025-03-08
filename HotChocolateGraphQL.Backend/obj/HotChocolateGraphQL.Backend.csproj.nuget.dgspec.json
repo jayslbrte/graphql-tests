@@ -33,6 +33,11 @@
             "NU1605"
           ]
         },
+        "restoreAuditProperties": {
+          "enableAudit": "enable",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
